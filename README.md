@@ -1,4 +1,4 @@
-ASTEROIDS (тест)
+ASTEROIDS
 
 Геймплей:
 
